@@ -1,0 +1,27 @@
+{
+  "fold": "fold_04",
+  "random_seed": 2026,
+  "train": [
+    "vp1",
+    "vp3",
+    "vp4",
+    "vp5",
+    "vp7",
+    "vp8",
+    "vp10",
+    "vp11",
+    "vp12",
+    "vp13",
+    "vp14",
+    "vp15"
+  ],
+  "test": [
+    "vp9",
+    "vp6",
+    "vp2"
+  ],
+  "num_train_subjects": 12,
+  "num_test_subjects": 3,
+  "num_train_samples": 4628,
+  "num_test_samples": 834
+}

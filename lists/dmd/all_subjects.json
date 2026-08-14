@@ -1,0 +1,132 @@
+{
+  "split_type": "subject_5fold",
+  "random_seed": 2026,
+  "num_folds": 5,
+  "num_subjects": 31,
+  "subjects": [
+    {
+      "subject_id": "gA_1",
+      "num_samples": 170
+    },
+    {
+      "subject_id": "gA_2",
+      "num_samples": 230
+    },
+    {
+      "subject_id": "gA_3",
+      "num_samples": 199
+    },
+    {
+      "subject_id": "gA_4",
+      "num_samples": 168
+    },
+    {
+      "subject_id": "gA_5",
+      "num_samples": 216
+    },
+    {
+      "subject_id": "gB_6",
+      "num_samples": 241
+    },
+    {
+      "subject_id": "gB_7",
+      "num_samples": 215
+    },
+    {
+      "subject_id": "gB_8",
+      "num_samples": 238
+    },
+    {
+      "subject_id": "gB_9",
+      "num_samples": 188
+    },
+    {
+      "subject_id": "gB_10",
+      "num_samples": 119
+    },
+    {
+      "subject_id": "gC_11",
+      "num_samples": 221
+    },
+    {
+      "subject_id": "gC_12",
+      "num_samples": 220
+    },
+    {
+      "subject_id": "gC_13",
+      "num_samples": 236
+    },
+    {
+      "subject_id": "gC_14",
+      "num_samples": 119
+    },
+    {
+      "subject_id": "gC_15",
+      "num_samples": 243
+    },
+    {
+      "subject_id": "gE_26",
+      "num_samples": 143
+    },
+    {
+      "subject_id": "gE_27",
+      "num_samples": 145
+    },
+    {
+      "subject_id": "gE_28",
+      "num_samples": 232
+    },
+    {
+      "subject_id": "gE_29",
+      "num_samples": 128
+    },
+    {
+      "subject_id": "gE_30",
+      "num_samples": 116
+    },
+    {
+      "subject_id": "gF_22",
+      "num_samples": 391
+    },
+    {
+      "subject_id": "gF_23",
+      "num_samples": 271
+    },
+    {
+      "subject_id": "gF_24",
+      "num_samples": 457
+    },
+    {
+      "subject_id": "gF_25",
+      "num_samples": 425
+    },
+    {
+      "subject_id": "gZ_31",
+      "num_samples": 345
+    },
+    {
+      "subject_id": "gZ_32",
+      "num_samples": 413
+    },
+    {
+      "subject_id": "gZ_33",
+      "num_samples": 499
+    },
+    {
+      "subject_id": "gZ_34",
+      "num_samples": 455
+    },
+    {
+      "subject_id": "gZ_35",
+      "num_samples": 404
+    },
+    {
+      "subject_id": "gZ_36",
+      "num_samples": 233
+    },
+    {
+      "subject_id": "gZ_37",
+      "num_samples": 194
+    }
+  ]
+}
