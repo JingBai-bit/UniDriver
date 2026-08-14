@@ -36,7 +36,7 @@ git clone https://github.com/JingBai-bit/UniDriver.git
 cd UniDriver
 pip install -r requirements.txt
 cd scripts
-sh train_driveract_visual.sh
+sh train_driveract.sh
 ```
 
 ## Configuration
@@ -49,20 +49,3 @@ Before running experiments, edit `configs/config.py`:
 
 Large checkpoints, logs, and experiment outputs are not included in this
 repository.
-
-## Main Scripts
-
-```bash
-cd scripts
-sh train_driveract_visual.sh
-sh train_dmd_visual.sh
-sh train_samdd_visual.sh
-```
-
-For more options:
-
-```bash
-python main.py --help
-python main_ablation_visual.py --help
-python main_fold_floaps_metric.py --help
-```
