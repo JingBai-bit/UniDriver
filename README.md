@@ -1,7 +1,7 @@
 # UniDriver: Multi-Task Vision-Language Adaptation for Generalizable Driver Distraction Detection
 
 <p align="center">
-    <img src="./img/Overview.png" alt="framework" width="800"/>
+    <img src="./img/framework.png" alt="Overview" width="800"/>
 </p>
 
 ## Abstract
