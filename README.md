@@ -35,7 +35,7 @@ effectiveness.
 git clone https://github.com/JingBai-bit/UniDriver.git
 cd UniDriver
 pip install -r requirements.txt
-sh train_driveract.sh
+sh train_samdd.sh
 ```
 
 ## Configuration
