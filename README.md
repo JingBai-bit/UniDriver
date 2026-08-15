@@ -1,7 +1,7 @@
 # UniDriver: Multi-Task Vision-Language Adaptation for Generalizable Driver Distraction Detection
 
 <p align="center">
-    <img src="./img/Overview.png" alt="Overview" width="800"/>
+    <img src="./img/Overview.png" alt="framework" width="800"/>
 </p>
 
 ## Abstract
@@ -49,16 +49,3 @@ Before running experiments, edit `configs/config.py`:
 Large checkpoints, logs, and experiment outputs are not included in this
 repository.
 
-## Main Scripts
-
-```bash
-sh train_driveract.sh
-sh train_dmd.sh
-sh train_samdd.sh
-```
-
-For more options:
-
-```bash
-python main.py --help
-```
