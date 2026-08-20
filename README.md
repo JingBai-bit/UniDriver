@@ -46,6 +46,3 @@ Before running experiments, edit `configs/config.py`:
 - Set the dataset roots for the datasets you want to use.
 - Keep dataset split files under `lists/` or update the corresponding paths.
 
-Large checkpoints, logs, and experiment outputs are not included in this
-repository.
-
