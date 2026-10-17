@@ -29,6 +29,14 @@ public distracted driving datasets show that UniDriver outperforms
 state-of-the-art methods in accuracy and generalization, validating its
 effectiveness.
 
+## Configuration
+
+Before running experiments, edit `configs/config.py`:
+
+- Set the pretrained vision-language checkpoint paths.
+- Set the dataset roots for the datasets you want to use.
+- Keep dataset split files under `lists/` or update the corresponding paths.
+
 ## Setup and Run
 
 ```bash
@@ -38,11 +46,5 @@ pip install -r requirements.txt
 sh train_samdd.sh
 ```
 
-## Configuration
 
-Before running experiments, edit `configs/config.py`:
-
-- Set the pretrained vision-language checkpoint paths.
-- Set the dataset roots for the datasets you want to use.
-- Keep dataset split files under `lists/` or update the corresponding paths.
 
